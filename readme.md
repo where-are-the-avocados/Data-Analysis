@@ -6,4 +6,9 @@ The purpose on this project is to analyze data in a case of auditing
 
 It contains info of a real bank about their clients. They are 5000 unique and different clients.
 The dataset contains the next headers for their columns.
+
 ![alt text](image.png)
+
+## Objectives
+
+Train and polish my skills in Data Analytics. Feel free to review the code!
